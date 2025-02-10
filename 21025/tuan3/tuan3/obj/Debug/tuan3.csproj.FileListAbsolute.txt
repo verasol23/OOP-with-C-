@@ -1,0 +1,11 @@
+E:\C# with OOP\VD1\21025\tuan3\tuan3\bin\Debug\tuan3.exe.config
+E:\C# with OOP\VD1\21025\tuan3\tuan3\bin\Debug\tuan3.exe
+E:\C# with OOP\VD1\21025\tuan3\tuan3\bin\Debug\tuan3.pdb
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.csproj.AssemblyReference.cache
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.Form1.resources
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.Properties.Resources.resources
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.csproj.GenerateResource.cache
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.csproj.CoreCompileInputs.cache
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.exe
+E:\C# with OOP\VD1\21025\tuan3\tuan3\obj\Debug\tuan3.pdb
+E:\C# with OOP\VD1\21025\Tuan3\tuan3\obj\Debug\tuan3.Form2.resources
